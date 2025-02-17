@@ -12,4 +12,4 @@ chmod +x Minecraft_Bedrock_Launcher-arm.0.0.617.AppImage
 ```
 
 ## PLEASE READ BEFORE USE
-This launcher does not contain any minecraft bedrock code or game files. To play you need to own either a minecraft.apk file or own mineccraft bedrock on the google play store to play using this launcher.
+This launcher does not contain any minecraft bedrock code or game files. To play you need to own either a minecraft.apk file or own minecraft bedrock on the google play store to play using this launcher.
