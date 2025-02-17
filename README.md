@@ -1,5 +1,7 @@
 ## Install Minecraft Bedrock Launcher
 ```sh
+sudo apt update
+sudo apt install fuse
 mkdir games
 cd games
 git clone https://github.com/G265Dev/Minecraft-Bedrock-For-Linux.git
