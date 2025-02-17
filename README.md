@@ -10,3 +10,6 @@ cat Minecraft_Bedrock_Launcher-arm.0.0.617.part-* > Minecraft_Bedrock_Launcher-a
 rm Minecraft_Bedrock_Launcher-arm.0.0.617.part-aa Minecraft_Bedrock_Launcher-arm.0.0.617.part-ab Minecraft_Bedrock_Launcher-arm.0.0.617.part-ac Minecraft_Bedrock_Launcher-arm.0.0.617.part-ad
 chmod +x Minecraft_Bedrock_Launcher-arm.0.0.617.AppImage
 ```
+
+## PLEASE READ BEFORE USE
+This launcher does not contain any minecraft bedrock code or game files. To play you need to own either a minecraft.apk file or own mineccraft bedrock on the google play store to play using this launcher.
